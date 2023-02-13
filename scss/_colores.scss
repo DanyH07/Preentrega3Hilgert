@@ -1,0 +1,28 @@
+
+$h1-color:#21faa7 ;
+$h2-color:#0f406b;
+$h3-color:#0c5130;
+
+
+body header{  
+       h1{ -webkit-text-stroke: 5px;
+    -webkit-text-fill-color: $h1-color;
+    font-family: monospace;
+    font-size: 90px;
+    font-weight: 800;
+    text-transform: uppercase;  
+    letter-spacing: 5px;
+    color: rgb(0, 0, 0);
+    text-align: center;}}
+
+
+section article {
+    h2 {color:#0f406b;
+    text-align: center;
+    opacity: calc(0.4);}}
+
+section article {
+    h3{color:#0c5130;
+    text-align: center;}}
+
+
